@@ -15,7 +15,20 @@
       "platforms": [
         {
           "name": "android",
-          "versions": []
+          "versions": [
+            {
+              "name": "1.0.0",
+              "codePush": {},
+              "container": {
+                "jsApiImpls": [],
+                "miniApps": [],
+                "nativeDeps": []
+              },
+              "isReleased": false,
+              "nativeDeps": [],
+              "yarnLocks": {}
+            }
+          ]
         }
       ]
     },
